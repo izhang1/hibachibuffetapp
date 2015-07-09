@@ -1,3 +1,9 @@
+/* Owner : Ivan Zhang
+   mainPage.java
+   Purpose : The initial menu page, connects user to menu, phone number, map/direction, push notifications, social media and other loyalty features.
+
+ */
+
 package com.example.izhang.hibachibuffetapp;
 
 import android.support.v7.app.ActionBarActivity;
