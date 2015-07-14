@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/izhang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-56895f2d3a9c4c5aee47d6c9cf2caea994b34dd8.jar" />
+    </item>
+    <item
+        jar="/Users/izhang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-23310887f85582021a53e8549cd8029827dd9677.jar" />
+    </item>
+    <item
+        jar="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/libs/Parse-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="35921ead63f6cafd9f84ff178c60fe474c4b17a6">
+        <dex dex="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/pre-dexed/debug/Parse-1.9.3-c86c745120f469f41e528702dcc7a987231679bc.jar" />
+    </item>
+    <item
+        jar="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/libs/ParseCrashReporting-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4b2fc26f71157545cc214e36008dae494adeda93">
+        <dex dex="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.3-b761b2397306d4e39bf9d9dd9d41053d7c005402.jar" />
+    </item>
+    <item
+        jar="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-4dd006f8934ef73c49e5f31e514425480f8c83be.jar" />
+    </item>
+    <item
+        jar="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/pre-dexed/debug/classes-701e79711ef50058d4f2c0399613a74c740e6669.jar" />
+    </item>
+    <item
+        jar="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/pre-dexed/debug/classes-2441275a68a81617edc3e25c4148d31b88ab0beb.jar" />
+    </item>
+    <item
+        jar="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/libs/ParseFacebookUtilsV3-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6d7bd608f5398677741ab1438447600c561ad319">
+        <dex dex="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV3-1.9.3-466d01a95b3f80e16526f9ac167b91f97da2d868.jar" />
+    </item>
+    <item
+        jar="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/libs/ParseFacebookUtilsV4-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="8e48db090422d6f3ef016f71e2f67ece319b34d2">
+        <dex dex="/Users/izhang/Desktop/Programming Work/HibachiBuffetApp/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.3-f6bebcc030df67d5450f70841fb24eb93843a407.jar" />
+    </item>
+
+</items>
